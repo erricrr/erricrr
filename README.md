@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋🏿 Erica's here! 
+
+Welcome to my coding playground! As a lifelong learner, I'm embracing the art of web development, fearlessly diving into the world of coding, design, and creating user experiences. These days, I'm fearlessly diving into creating intelligent solutions that leverage the power of data and algorithms. The pursuit of knowledge knows no bounds. Join me in this exciting adventure, because it's never too late to start!
 
 <!--
 **erricrr/erricrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
