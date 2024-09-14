@@ -1,8 +1,8 @@
-## 👋🏿 I am no one
+## 👋🏿 I'm here
 
 The pursuit of knowledge knows **no** bounds.
 
-And one last thing: I love *Bloodsport*.
+Fun fact: I love *Bloodsport*.
 
 <!--
 **erricrr/erricrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
